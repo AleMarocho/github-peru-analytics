@@ -24,7 +24,7 @@ Tras procesar la data de los programadores peruanos analizados, obtuvimos los si
 ---
 
 ## 4. Características de la Plataforma (Features)
-Streamlit https://aless-app-peru-analytics.streamlit.app/
+**Streamlit:** https://aless-app-peru-analytics.streamlit.app/
 
 El dashboard construido en **Streamlit** se compone de 6 increíbles páginas interactivas:
 1. **Overview Dashboard:** KPIs gigantes del ecosistema global.
