@@ -1,0 +1,50 @@
+{
+    "ecosystem_size": {
+        "total_developers": 7,
+        "total_repositories": 1089,
+        "total_stars": 13651
+    },
+    "averages": {
+        "avg_repos_per_user": 155.57,
+        "avg_stars_per_repo": 12.54,
+        "avg_account_age_years": 9.03
+    },
+    "health_indicators": {
+        "active_developer_pct": 71.43,
+        "repos_with_issues_pct": 6.24
+    },
+    "top_technologies": {
+        "most_popular_languages": {
+            "JavaScript": 133,
+            "Python": 103,
+            "HTML": 75,
+            "Ruby": 75,
+            "C#": 69,
+            "CSS": 66,
+            "Dart": 47,
+            "TypeScript": 28,
+            "Jupyter Notebook": 22,
+            "Go": 17
+        }
+    },
+    "industry_distribution": {
+        "Information and communication": 682,
+        "Professional, scientific activities": 86,
+        "Education": 80,
+        "Arts, entertainment and recreation": 74,
+        "Wholesale and retail trade": 56,
+        "Financial and insurance activities": 51,
+        "Manufacturing": 16,
+        "Transportation and storage": 11,
+        "Accommodation and food services": 8,
+        "Human health and social work": 8,
+        "Public administration and defense": 5,
+        "Other service activities": 3,
+        "Administrative and support activities": 3,
+        "Real estate activities": 2,
+        "Extraterritorial organizations": 1,
+        "Activities of households": 1,
+        "Mining and quarrying": 1,
+        "Construction": 1
+    }
+}
